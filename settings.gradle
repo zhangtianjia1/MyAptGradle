@@ -1,0 +1,5 @@
+rootProject.name='MyGradleButter'
+include ':app'
+include ':apt-annotation'
+include ':apt-processor'
+include ':apt-sdk'
